@@ -1,16 +1,30 @@
-# social_app
+##### more screenshots about this app in demo screenshot folder
 
-A new Flutter project.
+<div style="display:flex; justify-content: center; align-items: center">
+  <img src='demo%20screenshots/Screenshot_20221220-193954.png' width='230'/>
+  <img src='demo%20screenshots/Screenshot_20221225-160702.png' width='230'/>
+  <img src='demo%20screenshots/Screenshot_20221225-160828.png' width='230'/>
 
-## Getting Started
+  <img src='demo%20screenshots/Screenshot_20221225-160847.png' width='230'/>
+  <img src='demo%20screenshots/Screenshot_20221225-160957.png' width='230'/>
+  <img src='demo%20screenshots/Screenshot_20221225-160931.png' width='230'/>
+</div>
 
-This project is a starting point for a Flutter application.
+<hr/>
+<h4>what i learn</h4>
 
-A few resources to get you started if this is your first Flutter project:
+<ul>
+  <li>revise on firebase collection, cloud storage, realtime database and use native devices like camera</li>
+</ul>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<hr/>
+<h4>new packages</h4>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<li>fluttertoast</li>
+
+<hr/>
+<h4>what i add</h4>
+
+<ul>
+  <li>add light & dark mode and using provider instead of cubit</li>
+</ul>
